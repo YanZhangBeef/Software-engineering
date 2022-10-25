@@ -1,0 +1,6 @@
+Visa
+eftpos Australia
+Wechat
+Mastercard
+PayPal
+Apple Pay

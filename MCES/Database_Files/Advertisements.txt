@@ -1,0 +1,5 @@
+customer@student.monash.edu$post$Book for sale,Textbook,3,90.0,Used,Nice,Visa,11/10/2022 00:48,18/10/2022 00:48,true,0
+customer@student.monash.edu$post$chair for sale,Furniture,1,89.99,Used,A second-hand office chair for sale,PayPal,15/10/2022 12:23,22/10/2022 12:23,true,0
+customer@student.monash.edu$post$A textbook on python for sale,Textbook,5,39.99,Used,A textbook for python beginners,eftpos Australia,15/10/2022 12:27,22/10/2022 12:27,true,0
+customer@student.monash.edu$post$Pen for sale,Miscellaneous,,10.0,New,A black pen with a gold pattern,Wechat,19/10/2022 22:17,26/10/2022 22:17,true,0
+customer@student.monash.edu$post$Math book for sale,Miscellaneous,none,90.0,Used,Expensive but worth,Visa,20/10/2022 16:57,27/10/2022 16:57,true,0
